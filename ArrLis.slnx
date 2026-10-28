@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/ParteArreglos/">    
+    <Project Path="ParteArreglos/Ej1A/Ej1A.csproj" />
+    <Project Path="ParteArreglos/Ej2A/Ej2A.csproj" />
+    <Project Path="ParteArreglos/Ej3A/Ej3A.csproj" />
+    <Project Path="ParteArreglos/Ej4A/Ej4A.csproj" />
+    <Project Path="ParteArreglos/Ej5A/Ej5A.csproj" />    
+  <Folder Name="/ParteListas/">
+    <Project Path="ParteListas/Ej1L/Ej1L.csproj" />
+    <Project Path="ParteListas/Ej2_3_4L/Ej2_3_4L.csproj" />
+    <Project Path="ParteListas/Ej5L/Ej5L.csproj" />
+  </Folder>
+</Solution>
