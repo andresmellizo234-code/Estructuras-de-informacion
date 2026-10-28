@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\bin\Debug\net10.0\Ej5A.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\bin\Debug\net10.0\Ej5A.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\bin\Debug\net10.0\Ej5A.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\bin\Debug\net10.0\Ej5A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\bin\Debug\net10.0\Ej5A.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\Ej5A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\Ej5A.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\Ej5A.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\Ej5A.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\Ej5A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\refint\Ej5A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\Ej5A.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\Ej5A.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej5A\obj\Debug\net10.0\ref\Ej5A.dll

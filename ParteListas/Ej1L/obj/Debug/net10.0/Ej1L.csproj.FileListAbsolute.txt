@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\bin\Debug\net10.0\Ej1L.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\bin\Debug\net10.0\Ej1L.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\bin\Debug\net10.0\Ej1L.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\bin\Debug\net10.0\Ej1L.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\bin\Debug\net10.0\Ej1L.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\Ej1L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\Ej1L.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\Ej1L.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\Ej1L.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\Ej1L.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\refint\Ej1L.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\Ej1L.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\Ej1L.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej1L\obj\Debug\net10.0\ref\Ej1L.dll

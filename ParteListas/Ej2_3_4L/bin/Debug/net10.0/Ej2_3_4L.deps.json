@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ej2_3_4L/1.0.0": {
+        "runtime": {
+          "Ej2_3_4L.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej2_3_4L/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\bin\Debug\net10.0\Ej4A.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\bin\Debug\net10.0\Ej4A.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\bin\Debug\net10.0\Ej4A.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\bin\Debug\net10.0\Ej4A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\bin\Debug\net10.0\Ej4A.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\Ej4A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\Ej4A.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\Ej4A.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\Ej4A.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\Ej4A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\refint\Ej4A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\Ej4A.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\Ej4A.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej4A\obj\Debug\net10.0\ref\Ej4A.dll

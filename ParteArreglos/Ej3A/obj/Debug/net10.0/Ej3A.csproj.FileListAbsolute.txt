@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\bin\Debug\net10.0\Ej3A.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\bin\Debug\net10.0\Ej3A.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\bin\Debug\net10.0\Ej3A.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\bin\Debug\net10.0\Ej3A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\bin\Debug\net10.0\Ej3A.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\Ej3A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\Ej3A.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\Ej3A.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\Ej3A.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\Ej3A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\refint\Ej3A.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\Ej3A.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\Ej3A.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteArreglos\Ej3A\obj\Debug\net10.0\ref\Ej3A.dll

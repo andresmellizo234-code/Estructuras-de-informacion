@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\bin\Debug\net10.0\Ej2_3_4L.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\bin\Debug\net10.0\Ej2_3_4L.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\bin\Debug\net10.0\Ej2_3_4L.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\bin\Debug\net10.0\Ej2_3_4L.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\bin\Debug\net10.0\Ej2_3_4L.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\Ej2_3_4L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\Ej2_3_4L.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\Ej2_3_4L.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\Ej2_3_4L.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\Ej2_3_4L.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\refint\Ej2_3_4L.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\Ej2_3_4L.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\Ej2_3_4L.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\ArreglosListasFinal\ParteListas\Ej2_3_4L\obj\Debug\net10.0\ref\Ej2_3_4L.dll
