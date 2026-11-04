@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="1Rocket/1Rocket.csproj" />
+  <Project Path="2Canciones/2Canciones.csproj" />
+  <Project Path="3Groot/3Groot.csproj" />
+  <Project Path="4Drax/4Drax.csproj" />
+  <Project Path="5Nebula/5Nebula.csproj" />
+  <Project Path="6Coleccionista/6Coleccionista.csproj" />
+  <Project Path="Nave7/Nave7.csproj" />
+</Solution>
