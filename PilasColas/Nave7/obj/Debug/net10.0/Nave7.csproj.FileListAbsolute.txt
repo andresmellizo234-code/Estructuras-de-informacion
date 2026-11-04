@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\bin\Debug\net10.0\Nave7.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\bin\Debug\net10.0\Nave7.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\bin\Debug\net10.0\Nave7.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\bin\Debug\net10.0\Nave7.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\bin\Debug\net10.0\Nave7.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\Nave7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\Nave7.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\Nave7.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\Nave7.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\Nave7.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\refint\Nave7.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\Nave7.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\Nave7.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\Nave7\obj\Debug\net10.0\ref\Nave7.dll

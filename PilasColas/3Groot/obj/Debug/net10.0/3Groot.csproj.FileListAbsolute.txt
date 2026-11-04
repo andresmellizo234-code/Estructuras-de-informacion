@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\bin\Debug\net10.0\3Groot.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\bin\Debug\net10.0\3Groot.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\bin\Debug\net10.0\3Groot.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\bin\Debug\net10.0\3Groot.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\bin\Debug\net10.0\3Groot.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\3Groot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\3Groot.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\3Groot.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\3Groot.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\3Groot.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\refint\3Groot.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\3Groot.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\3Groot.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\3Groot\obj\Debug\net10.0\ref\3Groot.dll

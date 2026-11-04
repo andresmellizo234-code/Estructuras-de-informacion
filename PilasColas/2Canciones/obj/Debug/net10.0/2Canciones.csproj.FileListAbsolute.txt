@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\bin\Debug\net10.0\2Canciones.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\bin\Debug\net10.0\2Canciones.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\bin\Debug\net10.0\2Canciones.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\bin\Debug\net10.0\2Canciones.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\bin\Debug\net10.0\2Canciones.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\2Canciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\2Canciones.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\2Canciones.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\2Canciones.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\2Canciones.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\refint\2Canciones.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\2Canciones.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\2Canciones.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\PilasColas\2Canciones\obj\Debug\net10.0\ref\2Canciones.dll
