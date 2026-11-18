@@ -1,0 +1,14 @@
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\bin\Debug\net10.0\eje3.exe
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\bin\Debug\net10.0\eje3.deps.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\bin\Debug\net10.0\eje3.runtimeconfig.json
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\bin\Debug\net10.0\eje3.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\bin\Debug\net10.0\eje3.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\eje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\eje3.AssemblyInfoInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\eje3.AssemblyInfo.cs
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\eje3.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\eje3.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\refint\eje3.dll
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\eje3.pdb
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\eje3.genruntimeconfig.cache
+C:\Users\MIGUEL\Desktop\Programas\Estructuras\Arboles\eje3\obj\Debug\net10.0\ref\eje3.dll

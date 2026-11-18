@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="eje1/eje1.csproj" />
+  <Project Path="eje10/eje10.csproj" />
+  <Project Path="eje2_5_8/eje2_5_8.csproj" />
+  <Project Path="eje3/eje3.csproj" />
+  <Project Path="eje4/eje4.csproj" />
+  <Project Path="eje6/eje6.csproj" />
+  <Project Path="eje7/eje7.csproj" />
+  <Project Path="eje9/eje9.csproj" />
+</Solution>
